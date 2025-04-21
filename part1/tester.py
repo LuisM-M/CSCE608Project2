@@ -61,7 +61,7 @@ def run_experiments(dense13, sparse13, dense24, sparse24):
                 print('[Sparse13] Deletion: *************')
                 random_delete(sparse13)
                 
-            print("\n##################### Two Insertions on the Sparse24 Tree #####################")
+            print("\n##################### Two Deletions on the Sparse24 Tree #####################")
 
             for _ in range(2):
                 print('')
