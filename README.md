@@ -14,11 +14,11 @@ This project consists of two parts: a B+ Tree implementation and a Hash Join imp
     - `main.py`: Main script to generate data, build trees, and run experiments.
 - **Logs**: 
     - `part4a.log`: Generates data in data/btree_keys.txt.
-    - `par4b.log`: Builds all 4 B+ Trees.
-    - `par4c1.log`: 2 Inserts on each dense B+ Tree.
-    - `par4c2.log`: 2 Deletions on each sparse B+ Tree.
-    - `par4c3.log`: 5 mixed operations on each B+ Tree.
-    - `par4c4.log`: 5 Searches on each B+ Tree.
+    - `part4b.log`: Builds all 4 B+ Trees.
+    - `part4c1.log`: 2 Inserts on each dense B+ Tree.
+    - `part4c2.log`: 2 Deletions on each sparse B+ Tree.
+    - `part4c3.log`: 5 mixed operations on each B+ Tree.
+    - `part4c4.log`: 5 Searches on each B+ Tree.
     - `rangeSearch.log`: 5 Range Searches on each B+ Tree.
 
 ### Part 2: Hash Join
