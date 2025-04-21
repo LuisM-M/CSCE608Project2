@@ -1,0 +1,182 @@
+========== PART 4(c3) ==========
+== Mixed Insert/Delete ==
+
+##################### Five Operations on Dense13 Tree #####################
+
+[Dense13] Operation 1: Deletion *************
+=== Deleting 134849 ===
+
+Deleting 134849
+[Delete] Leaf node before deletion: LeafNode(keys=[134824, 134827, 134837, 134842, 134861, 134865, 134896])
+[Delete] Key 134849 not found in leaf node.
+Before Delete: InternalNode(keys=[124481, 148273, 172573])
+After Delete: InternalNode(keys=[124481, 148273, 172573])
+
+[Dense13] Operation 2: Deletion *************
+=== Deleting 142256 ===
+
+Deleting 142256
+[Delete] Leaf node before deletion: LeafNode(keys=[142206, 142210, 142215, 142227, 142231, 142249, 142250])
+[Delete] Key 142256 not found in leaf node.
+Before Delete: InternalNode(keys=[124481, 148273, 172573])
+After Delete: InternalNode(keys=[124481, 148273, 172573])
+
+[Dense13] Operation 3: Deletion *************
+=== Deleting 183793 ===
+
+Deleting 183793
+[Delete] Leaf node before deletion: LeafNode(keys=[183771, 183826, 183848, 183854, 183859, 183875, 183897])
+[Delete] Key 183793 not found in leaf node.
+Before Delete: InternalNode(keys=[124481, 148273, 172573])
+After Delete: InternalNode(keys=[124481, 148273, 172573])
+
+[Dense13] Operation 4: Deletion *************
+=== Deleting 158754 ===
+
+Deleting 158754
+[Delete] Leaf node before deletion: LeafNode(keys=[158667, 158700, 158722, 158730, 158744, 158747, 158765])
+[Delete] Key 158754 not found in leaf node.
+Before Delete: InternalNode(keys=[124481, 148273, 172573])
+After Delete: InternalNode(keys=[124481, 148273, 172573])
+
+[Dense13] Operation 5: Insertion *************
+=== Inserting 183412 ===
+Inserting 183412
+[Insert] Leaf node before insertion: [183378, 183381, 183385, 183397, 183415, 183420, 183424]
+[Insert] Leaf node after insertion: [183378, 183381, 183385, 183397, 183412, 183415, 183420, 183424]
+Before Insert: InternalNode(keys=[124481, 148273, 172573])
+After Insert: InternalNode(keys=[124481, 148273, 172573])
+
+##################### Five Operations on Sparse13 Tree #####################
+
+[Sparse13] Operation 1: Insertion *************
+=== Inserting 102176 ===
+Inserting 102176
+[Insert] Leaf node before insertion: [100096, 101018, 101730, 102627, 103457, 104354, 105135]
+[Insert] Leaf node after insertion: [100096, 101018, 101730, 102176, 102627, 103457, 104354, 105135]
+Before Insert: InternalNode(keys=[137613])
+After Insert: InternalNode(keys=[137613])
+
+[Sparse13] Operation 2: Insertion *************
+=== Inserting 151431 ===
+Inserting 151431
+[Insert] Leaf node before insertion: [148147, 148928, 149603, 150377, 151142, 151881, 152638]
+[Insert] Leaf node after insertion: [148147, 148928, 149603, 150377, 151142, 151431, 151881, 152638]
+Before Insert: InternalNode(keys=[137613])
+After Insert: InternalNode(keys=[137613])
+
+[Sparse13] Operation 3: Deletion *************
+=== Deleting 181376 ===
+
+Deleting 181376
+[Delete] Leaf node before deletion: LeafNode(keys=[180234, 180949, 181734, 182426, 183252, 183967, 184723])
+[Delete] Key 181376 not found in leaf node.
+Before Delete: InternalNode(keys=[137613])
+After Delete: InternalNode(keys=[137613])
+
+[Sparse13] Operation 4: Insertion *************
+=== Inserting 162428 ===
+Inserting 162428
+[Insert] Leaf node before insertion: [158951, 159647, 160452, 161232, 161897, 162737, 163459]
+[Insert] Leaf node after insertion: [158951, 159647, 160452, 161232, 161897, 162428, 162737, 163459]
+Before Insert: InternalNode(keys=[137613])
+After Insert: InternalNode(keys=[137613])
+
+[Sparse13] Operation 5: Deletion *************
+=== Deleting 165516 ===
+
+Deleting 165516
+[Delete] Leaf node before deletion: LeafNode(keys=[164277, 164969, 165669, 166397, 167119, 167994, 168767])
+[Delete] Key 165516 not found in leaf node.
+Before Delete: InternalNode(keys=[137613])
+After Delete: InternalNode(keys=[137613])
+
+##################### Five Operations on Dense24 Tree #####################
+
+[Dense24] Operation 1: Deletion *************
+=== Deleting 149244 ===
+
+Deleting 149244
+[Delete] Leaf node before deletion: LeafNode(keys=[149217, 149224, 149263, 149267, 149281, 149302, 149304, 149310, 149312, 149314, 149322, 149336])
+[Delete] Key 149244 not found in leaf node.
+Before Delete: InternalNode(keys=[120744, 141030, 161250, 181511])
+After Delete: InternalNode(keys=[120744, 141030, 161250, 181511])
+
+[Dense24] Operation 2: Deletion *************
+=== Deleting 145855 ===
+
+Deleting 145855
+[Delete] Leaf node before deletion: LeafNode(keys=[145744, 145751, 145771, 145778, 145787, 145789, 145793, 145803, 145809, 145813, 145850, 145860])
+[Delete] Key 145855 not found in leaf node.
+Before Delete: InternalNode(keys=[120744, 141030, 161250, 181511])
+After Delete: InternalNode(keys=[120744, 141030, 161250, 181511])
+
+[Dense24] Operation 3: Insertion *************
+=== Inserting 116311 ===
+Inserting 116311
+[Insert] Leaf node before insertion: [116243, 116276, 116277, 116280, 116282, 116294, 116327, 116333, 116335, 116366, 116376, 116387]
+[Insert] Leaf node after insertion: [116243, 116276, 116277, 116280, 116282, 116294, 116311, 116327, 116333, 116335, 116366, 116376, 116387]
+Before Insert: InternalNode(keys=[120744, 141030, 161250, 181511])
+After Insert: InternalNode(keys=[120744, 141030, 161250, 181511])
+
+[Dense24] Operation 4: Deletion *************
+=== Deleting 160656 ===
+
+Deleting 160656
+[Delete] Leaf node before deletion: LeafNode(keys=[160541, 160555, 160560, 160567, 160579, 160615, 160620, 160642, 160653, 160660, 160665, 160676])
+[Delete] Key 160656 not found in leaf node.
+Before Delete: InternalNode(keys=[120744, 141030, 161250, 181511])
+After Delete: InternalNode(keys=[120744, 141030, 161250, 181511])
+
+[Dense24] Operation 5: Deletion *************
+=== Deleting 111079 ===
+
+Deleting 111079
+[Delete] Leaf node before deletion: LeafNode(keys=[110954, 110965, 110973, 110998, 111011, 111026, 111032, 111038, 111068, 111069, 111078, 111083])
+[Delete] Key 111079 not found in leaf node.
+Before Delete: InternalNode(keys=[120744, 141030, 161250, 181511])
+After Delete: InternalNode(keys=[120744, 141030, 161250, 181511])
+
+##################### Five Operations on Sparse24 Tree #####################
+
+[Sparse24] Operation 1: Deletion *************
+=== Deleting 185939 ===
+
+Deleting 185939
+[Delete] Leaf node before deletion: LeafNode(keys=[183990, 184418, 184861, 185239, 185687, 186027, 186394, 186839, 187145, 187583, 188034, 188458])
+[Delete] Key 185939 not found in leaf node.
+Before Delete: InternalNode(keys=[105425, 110499, 115376, 120188, 125075, 129692, 134676, 139719, 144650, 149413, 154271, 159448, 164424, 169247, 174387, 179134, 183990, 188893, 193578])
+After Delete: InternalNode(keys=[105425, 110499, 115376, 120188, 125075, 129692, 134676, 139719, 144650, 149413, 154271, 159448, 164424, 169247, 174387, 179134, 183990, 188893, 193578])
+
+[Sparse24] Operation 2: Insertion *************
+=== Inserting 162651 ===
+Inserting 162651
+[Insert] Leaf node before insertion: [159448, 159863, 160255, 160692, 161151, 161462, 161847, 162267, 162737, 163129, 163540, 164021]
+[Insert] Leaf node after insertion: [159448, 159863, 160255, 160692, 161151, 161462, 161847, 162267, 162651, 162737, 163129, 163540, 164021]
+Before Insert: InternalNode(keys=[105425, 110499, 115376, 120188, 125075, 129692, 134676, 139719, 144650, 149413, 154271, 159448, 164424, 169247, 174387, 179134, 183990, 188893, 193578])
+After Insert: InternalNode(keys=[105425, 110499, 115376, 120188, 125075, 129692, 134676, 139719, 144650, 149413, 154271, 159448, 164424, 169247, 174387, 179134, 183990, 188893, 193578])
+
+[Sparse24] Operation 3: Insertion *************
+=== Inserting 181882 ===
+Inserting 181882
+[Insert] Leaf node before insertion: [179134, 179568, 179942, 180330, 180791, 181208, 181556, 181930, 182375, 182758, 183233, 183559]
+[Insert] Leaf node after insertion: [179134, 179568, 179942, 180330, 180791, 181208, 181556, 181882, 181930, 182375, 182758, 183233, 183559]
+Before Insert: InternalNode(keys=[105425, 110499, 115376, 120188, 125075, 129692, 134676, 139719, 144650, 149413, 154271, 159448, 164424, 169247, 174387, 179134, 183990, 188893, 193578])
+After Insert: InternalNode(keys=[105425, 110499, 115376, 120188, 125075, 129692, 134676, 139719, 144650, 149413, 154271, 159448, 164424, 169247, 174387, 179134, 183990, 188893, 193578])
+
+[Sparse24] Operation 4: Deletion *************
+=== Deleting 135825 ===
+
+Deleting 135825
+[Delete] Leaf node before deletion: LeafNode(keys=[134676, 135036, 135377, 135718, 136239, 136800, 137186, 137662, 138008, 138445, 138891, 139300])
+[Delete] Key 135825 not found in leaf node.
+Before Delete: InternalNode(keys=[105425, 110499, 115376, 120188, 125075, 129692, 134676, 139719, 144650, 149413, 154271, 159448, 164424, 169247, 174387, 179134, 183990, 188893, 193578])
+After Delete: InternalNode(keys=[105425, 110499, 115376, 120188, 125075, 129692, 134676, 139719, 144650, 149413, 154271, 159448, 164424, 169247, 174387, 179134, 183990, 188893, 193578])
+
+[Sparse24] Operation 5: Insertion *************
+=== Inserting 150339 ===
+Inserting 150339
+[Insert] Leaf node before insertion: [149413, 149895, 150291, 150635, 151080, 151430, 151869, 152324, 152677, 153085, 153486, 153896]
+[Insert] Leaf node after insertion: [149413, 149895, 150291, 150339, 150635, 151080, 151430, 151869, 152324, 152677, 153085, 153486, 153896]
+Before Insert: InternalNode(keys=[105425, 110499, 115376, 120188, 125075, 129692, 134676, 139719, 144650, 149413, 154271, 159448, 164424, 169247, 174387, 179134, 183990, 188893, 193578])
+After Insert: InternalNode(keys=[105425, 110499, 115376, 120188, 125075, 129692, 134676, 139719, 144650, 149413, 154271, 159448, 164424, 169247, 174387, 179134, 183990, 188893, 193578])

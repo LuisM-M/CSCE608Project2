@@ -1,0 +1,40 @@
+========== PART 4(c2) ==========
+##################### Two Deletions on the Sparse13 Tree #####################
+
+[Sparse13] Deletion: *************
+=== Deleting 177599 ===
+
+Deleting 177599
+[Delete] Leaf node before deletion: LeafNode(keys=[175045, 175805, 176546, 177275, 177974, 178737, 179465])
+[Delete] Key 177599 not found in leaf node.
+Before Delete: InternalNode(keys=[137613])
+After Delete: InternalNode(keys=[137613])
+
+[Sparse13] Deletion: *************
+=== Deleting 120294 ===
+
+Deleting 120294
+[Delete] Leaf node before deletion: LeafNode(keys=[116393, 117139, 117946, 118748, 119512, 120287, 120966])
+[Delete] Key 120294 not found in leaf node.
+Before Delete: InternalNode(keys=[137613])
+After Delete: InternalNode(keys=[137613])
+
+##################### Two Insertions on the Sparse24 Tree #####################
+
+[Sparse24] Deletion: *************
+=== Deleting 124106 ===
+
+Deleting 124106
+[Delete] Leaf node before deletion: LeafNode(keys=[120188, 120575, 120941, 121388, 121784, 122242, 122666, 123053, 123523, 123902, 124242, 124675])
+[Delete] Key 124106 not found in leaf node.
+Before Delete: InternalNode(keys=[105425, 110499, 115376, 120188, 125075, 129692, 134676, 139719, 144650, 149413, 154271, 159448, 164424, 169247, 174387, 179134, 183990, 188893, 193578])
+After Delete: InternalNode(keys=[105425, 110499, 115376, 120188, 125075, 129692, 134676, 139719, 144650, 149413, 154271, 159448, 164424, 169247, 174387, 179134, 183990, 188893, 193578])
+
+[Sparse24] Deletion: *************
+=== Deleting 113451 ===
+
+Deleting 113451
+[Delete] Leaf node before deletion: LeafNode(keys=[110499, 110916, 111269, 111734, 112079, 112435, 112750, 113115, 113629, 114006, 114421, 114965])
+[Delete] Key 113451 not found in leaf node.
+Before Delete: InternalNode(keys=[105425, 110499, 115376, 120188, 125075, 129692, 134676, 139719, 144650, 149413, 154271, 159448, 164424, 169247, 174387, 179134, 183990, 188893, 193578])
+After Delete: InternalNode(keys=[105425, 110499, 115376, 120188, 125075, 129692, 134676, 139719, 144650, 149413, 154271, 159448, 164424, 169247, 174387, 179134, 183990, 188893, 193578])

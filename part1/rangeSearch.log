@@ -1,0 +1,69 @@
+================== Randomized Range Search Test ====================
+
+##################### Five Range Searches on Dense13 Tree #####################
+
+[Dense13] Range Search 1: From 152514 to 171344
+Found 1846 keys in range
+
+[Dense13] Range Search 2: From 155787 to 186732
+Found 3090 keys in range
+
+[Dense13] Range Search 3: From 110083 to 180323
+Found 7055 keys in range
+
+[Dense13] Range Search 4: From 126244 to 173942
+Found 4763 keys in range
+
+[Dense13] Range Search 5: From 114443 to 144182
+Found 2982 keys in range
+
+##################### Five Range Searches on Sparse13 Tree #####################
+
+[Sparse13] Range Search 1: From 130493 to 143522
+Found 17 keys in range
+
+[Sparse13] Range Search 2: From 132024 to 178707
+Found 63 keys in range
+
+[Sparse13] Range Search 3: From 157423 to 185068
+Found 38 keys in range
+
+[Sparse13] Range Search 4: From 109013 to 181412
+Found 97 keys in range
+
+[Sparse13] Range Search 5: From 121009 to 167566
+Found 63 keys in range
+
+##################### Five Range Searches on Dense24 Tree #####################
+
+[Dense24] Range Search 1: From 178384 to 181812
+Found 353 keys in range
+
+[Dense24] Range Search 2: From 101546 to 196136
+Found 9455 keys in range
+
+[Dense24] Range Search 3: From 115085 to 123204
+Found 827 keys in range
+
+[Dense24] Range Search 4: From 107014 to 134606
+Found 2810 keys in range
+
+[Dense24] Range Search 5: From 105589 to 150770
+Found 4556 keys in range
+
+##################### Five Range Searches on Sparse24 Tree #####################
+
+[Sparse24] Range Search 1: From 138479 to 166016
+Found 69 keys in range
+
+[Sparse24] Range Search 2: From 169212 to 185071
+Found 40 keys in range
+
+[Sparse24] Range Search 3: From 142661 to 171449
+Found 72 keys in range
+
+[Sparse24] Range Search 4: From 105236 to 120767
+Found 38 keys in range
+
+[Sparse24] Range Search 5: From 151964 to 157060
+Found 12 keys in range

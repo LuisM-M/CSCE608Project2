@@ -1,0 +1,36 @@
+========== PART 4(c1) ==========
+##################### Two Insertions on the Dense13 Tree #####################
+
+[Dense13] Insertion: *************
+=== Inserting 179791 ===
+Inserting 179791
+[Insert] Leaf node before insertion: [179770, 179774, 179794, 179805, 179808, 179812, 179816]
+[Insert] Leaf node after insertion: [179770, 179774, 179791, 179794, 179805, 179808, 179812, 179816]
+Before Insert: InternalNode(keys=[124481, 148273, 172573])
+After Insert: InternalNode(keys=[124481, 148273, 172573])
+
+[Dense13] Insertion: *************
+=== Inserting 136457 ===
+Inserting 136457
+[Insert] Leaf node before insertion: [136434, 136454, 136461, 136480, 136484, 136487, 136503]
+[Insert] Leaf node after insertion: [136434, 136454, 136457, 136461, 136480, 136484, 136487, 136503]
+Before Insert: InternalNode(keys=[124481, 148273, 172573])
+After Insert: InternalNode(keys=[124481, 148273, 172573])
+
+##################### Two Insertions on the Dense24 Tree #####################
+
+[Dense24] Insertion: *************
+=== Inserting 191093 ===
+Inserting 191093
+[Insert] Leaf node before insertion: [190990, 191012, 191016, 191026, 191028, 191039, 191053, 191059, 191065, 191079, 191085, 191095]
+[Insert] Leaf node after insertion: [190990, 191012, 191016, 191026, 191028, 191039, 191053, 191059, 191065, 191079, 191085, 191093, 191095]
+Before Insert: InternalNode(keys=[120744, 141030, 161250, 181511])
+After Insert: InternalNode(keys=[120744, 141030, 161250, 181511])
+
+[Dense24] Insertion: *************
+=== Inserting 102245 ===
+Inserting 102245
+[Insert] Leaf node before insertion: [102237, 102248, 102255, 102268, 102269, 102275, 102277, 102278, 102288, 102290, 102300, 102311]
+[Insert] Leaf node after insertion: [102237, 102245, 102248, 102255, 102268, 102269, 102275, 102277, 102278, 102288, 102290, 102300, 102311]
+Before Insert: InternalNode(keys=[120744, 141030, 161250, 181511])
+After Insert: InternalNode(keys=[120744, 141030, 161250, 181511])

@@ -1,0 +1,93 @@
+========== PART 4(c4) ==========
+== Random Searches ==
+
+##################### Five Random Searches on the Dense13 Tree #####################
+Random Search 1: 
+=== Searching 166680 ===
+[Dense13] Search key 166680 -> Found in 5 step(s)
+
+Random Search 2: 
+=== Searching 176868 ===
+[Dense13] Search key 176868 -> Found in 5 step(s)
+
+Random Search 3: 
+=== Searching 126645 ===
+[Dense13] Search key 126645 -> Found in 5 step(s)
+
+Random Search 4: 
+=== Searching 147844 ===
+[Dense13] Search key 147844 -> Found in 5 step(s)
+
+Random Search 5: 
+=== Searching 171918 ===
+[Dense13] Search key 171918 -> Found in 5 step(s)
+
+
+
+##################### Five Random Searches on the Sparse13 Tree #####################
+Random Search 1:
+=== Searching 155208 ===
+[Sparse13] Search key 155208 -> Not Found in 3 step(s)
+
+Random Search 2:
+=== Searching 120415 ===
+[Sparse13] Search key 120415 -> Not Found in 3 step(s)
+
+Random Search 3:
+=== Searching 119792 ===
+[Sparse13] Search key 119792 -> Not Found in 3 step(s)
+
+Random Search 4:
+=== Searching 189770 ===
+[Sparse13] Search key 189770 -> Not Found in 3 step(s)
+
+Random Search 5:
+=== Searching 157194 ===
+[Sparse13] Search key 157194 -> Not Found in 3 step(s)
+
+
+
+##################### Five Random Searches on the Dense24 Tree #####################
+Random Search 1:
+=== Searching 187034 ===
+[Dense24] Search key 187034 -> Found in 4 step(s)
+
+Random Search 2:
+=== Searching 145945 ===
+[Dense24] Search key 145945 -> Found in 4 step(s)
+
+Random Search 3:
+=== Searching 192946 ===
+[Dense24] Search key 192946 -> Found in 4 step(s)
+
+Random Search 4:
+=== Searching 100158 ===
+[Dense24] Search key 100158 -> Found in 4 step(s)
+
+Random Search 5:
+=== Searching 187452 ===
+[Dense24] Search key 187452 -> Found in 4 step(s)
+
+
+
+##################### Five Random Searches on the Sparse24 Tree #####################
+Random Search 1:
+=== Searching 158595 ===
+[Sparse24] Search key 158595 -> Not Found in 2 step(s)
+
+Random Search 2:
+=== Searching 192122 ===
+[Sparse24] Search key 192122 -> Not Found in 2 step(s)
+
+Random Search 3:
+=== Searching 159401 ===
+[Sparse24] Search key 159401 -> Not Found in 2 step(s)
+
+Random Search 4:
+=== Searching 102997 ===
+[Sparse24] Search key 102997 -> Not Found in 2 step(s)
+
+Random Search 5:
+=== Searching 102190 ===
+[Sparse24] Search key 102190 -> Not Found in 2 step(s)
+
