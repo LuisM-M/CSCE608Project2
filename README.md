@@ -2,6 +2,9 @@
 
 This project consists of two parts: a B+ Tree implementation and a Hash Join implementation. Each part generates log files for different experiments and operations.
 
+## High Res Video Link
+https://youtu.be/b5Ts6Luxblk
+
 ## Project Structure
 
 ### Part 1: B+ Tree
