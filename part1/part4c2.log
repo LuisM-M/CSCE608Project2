@@ -19,7 +19,7 @@ Deleting 120294
 Before Delete: InternalNode(keys=[137613])
 After Delete: InternalNode(keys=[137613])
 
-##################### Two Insertions on the Sparse24 Tree #####################
+##################### Two Deletions on the Sparse24 Tree #####################
 
 [Sparse24] Deletion: *************
 === Deleting 124106 ===
